@@ -1,0 +1,3 @@
+[submodule "roles/softasap.sa-mariadb"]
+        path = roles/sa_mariadb
+        url = https://github.com/softasap/sa-mariadb.git
